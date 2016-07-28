@@ -18,3 +18,11 @@ date: 2016-07-28 10:40:01
 专属颜色: Red
 技术专长: 内存调优，框架设计，接口设计
 邮   箱: red@dev-color.com
+
+
+### Blue Elves
+
+技术方向: iOS
+专属颜色: Blue
+技术专长: 单元测试、持续集成、数据库设计、组件化开发
+邮   箱: blueelves@dev-color.com
