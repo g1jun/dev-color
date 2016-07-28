@@ -3,7 +3,7 @@ menu:
     目录: /archives/
     # Weibo: http://weibo.com/sunchongsheng
     # GitHub: https://github.com/pinggod
-    关于我们: /abount/
+    关于: /abount/
     订阅: /atom.xml
 
 favicon: /favicon.png
