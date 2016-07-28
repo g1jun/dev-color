@@ -10,7 +10,7 @@ Xib/Storybarod可以方便、可视化的设置约束，在开发中也越来越
 
 {% img /images/article/Swift之xib模块化设计/image_0.png %}
 
-<!-- #### <font color="red">Red Leaf</font> 提供[Swift之xib模块化设计](http://00red.com/blog/2016/07/27/tips-swift-xib-modular-design/)技术支持 -->
+#### <font color="red">Red Leaf</font> 提供[Swift之xib模块化设计](http://00red.com/blog/2016/07/27/tips-swift-xib-modular-design/)技术支持
 
 <!-- more -->
 
