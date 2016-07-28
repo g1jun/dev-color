@@ -4,6 +4,8 @@ date: 2016-07-28 14:19:14
 前言:
 ---
 有时候我们使用ImageView的时候 想要知道现在的显示的图片是placeHolder的图片还是加载完成或挑选好的图片，但是tag属性只能拿到却不能判断，当然，加几个bool属性也可以完成，但是会有些复杂，如果可以在给imageview 赋图片的时候给图片加个标记，那么下次判断一下标记是不是placeHolder就可以了，很简单。
+#### Blue Elves提供[Image的AccessibilityIdentifier属性使用](http://blog.csdn.net/tutuzhuz/article/details/52055404)技术支持
+
     
 <!-- more -->
 ## 代码：
@@ -58,3 +60,4 @@ if ([picView.image.accessibilityIdentifier isEqualToString:@"add"]) {
 ```
 
 这样会方便很多，减少bool变量过多带来的问题。
+
