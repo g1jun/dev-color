@@ -10,7 +10,7 @@ Xib/Storybarod可以方便、可视化的设置约束，在开发中也越来越
 
 {% img /images/article/Swift之xib模块化设计/image_0.png %}
 
-#### Red Leaf提供[Swift之xib模块化设计](http://00red.com/blog/2016/07/27/tips-swift-xib-modular-design/)技术支持
+<!-- #### <font color="red">Red Leaf</font> 提供[Swift之xib模块化设计](http://00red.com/blog/2016/07/27/tips-swift-xib-modular-design/)技术支持 -->
 
 <!-- more -->
 
@@ -163,5 +163,4 @@ class ILDemoView: ILXibView {
 #### Tips
 使用的时候，先设置目标UIView的Class属性为**ILDemoView**，再将此UIView控件拖拽建立关联关系，会发现此时代码中属性类型已自动设置为**ILDemoView**。**ILXibView**简单却非常实用，我们项目中已经大量的使用它，对于Xib的模块化封装，绝对是一利器。
 
-
-### [直接下载demo](/download/Swift之xib模块化设计/ILXibDemo.zip)
+### [直接下载demo](http://00red.com/download/Swift之xib模块化设计/ILXibDemo.zip)
