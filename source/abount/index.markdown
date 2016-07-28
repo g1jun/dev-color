@@ -12,7 +12,7 @@ date: 2016-07-28 10:40:01
 我的团队一直在对外招纳新队员，欢迎来信加入我们，将iOS知识更好的分享给大家
 
 
-### Red Leaf
+### <p style="color:red" >Red Leaf</p>
 
 技术方向: iOS/Android
 专属颜色: Red
@@ -20,7 +20,7 @@ date: 2016-07-28 10:40:01
 邮   箱: red@dev-color.com
 
 
-### Blue Elves
+### <p style="color:blue" >Blue Elves</p>
 
 技术方向: iOS
 专属颜色: Blue
