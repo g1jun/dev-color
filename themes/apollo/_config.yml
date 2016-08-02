@@ -18,7 +18,7 @@ duoshuo: dev-color
 # google-analytics:
 ga: UA-65933410-1
 
-cnzz: 1260000682
+cnzz: true
 
 # Copyright Infomation
 startyear: 2015

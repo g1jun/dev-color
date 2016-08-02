@@ -1,13 +1,14 @@
 ---
-title: navigationController页面的跳转技巧--setViewControllers
+title: NavigationController页面的跳转技巧--setViewControllers
 date: 2016-08-02 16:19:05
 前言:
 ---
 相信大家对navigationController的跳转都不陌生，UINavigationController是实现画面多层次跳转，并且可以自动地记忆跳转所经过的路径，按照这些记录的路径信息，可以依次返回到上层画面中（即支持返回按钮）。
+
+<!-- more -->
+
 ##### 我在开发中遇到这样的需求，由A页面跳转到B页面返回时要返回到之前没有创建的C页面。
 
-    
-<!-- more -->
 
 ## 一、关于跳转
 在使用UINavigationController时我们用的最多的就是Push和pop方法，而pop方法又包括popViewControllerAnimated、popToViewController与popToRootViewControllerAnimated，分别是返回上一层，返回指定层与返回根视图（即UINavigationController最开始的那一层）

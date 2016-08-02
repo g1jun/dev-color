@@ -1,5 +1,5 @@
 ---
-title: swift-Image的AccessibilityIdentifier属性使用
+title: Swift-Image的AccessibilityIdentifier属性使用
 date: 2016-07-28 14:19:14
 前言:
 ---
