@@ -5,6 +5,8 @@ date: 2016-08-02 16:19:05
 ---
 相信大家对navigationController的跳转都不陌生，UINavigationController是实现画面多层次跳转，并且可以自动地记忆跳转所经过的路径，按照这些记录的路径信息，可以依次返回到上层画面中（即支持返回按钮）。
 
+#### <font color="green">Green</font> 提供<font color="green">NavigationController页面的跳转技巧</font>技术支持
+
 <!-- more -->
 
 ##### 我在开发中遇到这样的需求，由A页面跳转到B页面返回时要返回到之前没有创建的C页面。

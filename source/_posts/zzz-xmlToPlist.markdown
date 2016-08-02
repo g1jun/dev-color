@@ -6,7 +6,13 @@ tags:
 
 
 
-### 刚刚无意间发现了一个小窍门，可以轻松的将xml转为plist文件，哈哈，好开心
+### 前言
+
+iOS开发过程中，plist文件的使用非常频繁，这里介绍一个小技巧给大家，主要包括：
+	
+> 1.通过Xcode编辑器编辑
+> 2.直接修改plist源码
+
 #### <font color="blue">Blue Elves</font> 提供[将xml代码或文件转为plist文件（xcode）](http://blog.csdn.net/tutuzhuz/article/details/52087479)技术支持
 
 <!-- more -->
